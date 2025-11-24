@@ -51,7 +51,7 @@ The goal of this project is to understand basic Python concepts such as:
 
 3. Download or clone this repository
 
-   git clone https://github.com/your-username/VITyarthi-Project.git
+   git clone https://github.com/saumyagupta2007/VITyarthi-Project.git
 
 4. Go to the project folder
 
